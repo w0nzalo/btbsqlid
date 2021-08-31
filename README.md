@@ -7,3 +7,5 @@ Use `^SQLI^` to replace the payload:
 python3 blind_time_based_sql_i_discover.py "http://myurl/vuln=^SQLI^"
 python3 blind_time_based_sql_i_discover.py "http://myurl/vuln=^SQLI^&pepe=pepo"
 ```
+
+![alt text](https://github.com/GtSnaker/btbsqlid/blob/main/img/btbsid_example.PNG?raw=true)
